@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/cloud-project-deploy-frontend/static/css/main.5e4be8fb.css",
+    "main.js": "/cloud-project-deploy-frontend/static/js/main.ef033d95.js",
+    "static/media/mealPlan.jpg": "/cloud-project-deploy-frontend/static/media/mealPlan.f355da5014545542f31e.jpg",
+    "static/media/LoginBg.jpg": "/cloud-project-deploy-frontend/static/media/LoginBg.37d93635161eedd5eacc.jpg",
+    "static/media/Logo_01.png": "/cloud-project-deploy-frontend/static/media/Logo_01.ed6cd25386237887ce3b.png",
+    "static/media/pic.jpg": "/cloud-project-deploy-frontend/static/media/pic.a210912fb0865c450ba3.jpg",
+    "static/media/KosalaCom.png": "/cloud-project-deploy-frontend/static/media/KosalaCom.db3e692fcd93df195b42.png",
+    "static/media/Backgro1.jpg": "/cloud-project-deploy-frontend/static/media/Backgro1.81298793b2d860a526fd.jpg",
+    "static/media/avatar.png": "/cloud-project-deploy-frontend/static/media/avatar.c8950e9864bba405ea41.png",
+    "static/media/Insta.png": "/cloud-project-deploy-frontend/static/media/Insta.25ef126c8e1017675410.png",
+    "static/media/Exercise.jpg": "/cloud-project-deploy-frontend/static/media/Exercise.3d075684fe3226578526.jpg",
+    "static/media/plus-icon.png": "/cloud-project-deploy-frontend/static/media/plus-icon.94d1d5ef20bbeabb8021.png",
+    "static/media/Fb.png": "/cloud-project-deploy-frontend/static/media/Fb.170a8182f1dd3d24c50e.png",
+    "static/media/Capture2.jpg": "/cloud-project-deploy-frontend/static/media/Capture2.99bf5895618b7573809a.jpg",
+    "static/media/Capture1Co.jpg": "/cloud-project-deploy-frontend/static/media/Capture1Co.5a87b342b16aad610ff5.jpg",
+    "static/media/Combined-1.jpg": "/cloud-project-deploy-frontend/static/media/Combined-1.6f2e15e7854614476e83.jpg",
+    "static/media/Email.png": "/cloud-project-deploy-frontend/static/media/Email.39da67306813f396dc4c.png",
+    "index.html": "/cloud-project-deploy-frontend/index.html",
+    "main.5e4be8fb.css.map": "/cloud-project-deploy-frontend/static/css/main.5e4be8fb.css.map",
+    "main.ef033d95.js.map": "/cloud-project-deploy-frontend/static/js/main.ef033d95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e4be8fb.css",
+    "static/js/main.ef033d95.js"
+  ]
+}
