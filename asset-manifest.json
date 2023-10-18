@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cloud-project-deploy-frontend/static/css/main.5e4be8fb.css",
-    "main.js": "/cloud-project-deploy-frontend/static/js/main.ef033d95.js",
+    "main.js": "/cloud-project-deploy-frontend/static/js/main.7553242a.js",
     "static/media/mealPlan.jpg": "/cloud-project-deploy-frontend/static/media/mealPlan.f355da5014545542f31e.jpg",
     "static/media/LoginBg.jpg": "/cloud-project-deploy-frontend/static/media/LoginBg.37d93635161eedd5eacc.jpg",
     "static/media/Logo_01.png": "/cloud-project-deploy-frontend/static/media/Logo_01.ed6cd25386237887ce3b.png",
@@ -19,10 +19,10 @@
     "static/media/Email.png": "/cloud-project-deploy-frontend/static/media/Email.39da67306813f396dc4c.png",
     "index.html": "/cloud-project-deploy-frontend/index.html",
     "main.5e4be8fb.css.map": "/cloud-project-deploy-frontend/static/css/main.5e4be8fb.css.map",
-    "main.ef033d95.js.map": "/cloud-project-deploy-frontend/static/js/main.ef033d95.js.map"
+    "main.7553242a.js.map": "/cloud-project-deploy-frontend/static/js/main.7553242a.js.map"
   },
   "entrypoints": [
     "static/css/main.5e4be8fb.css",
-    "static/js/main.ef033d95.js"
+    "static/js/main.7553242a.js"
   ]
 }
