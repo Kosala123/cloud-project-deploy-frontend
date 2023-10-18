@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Route, Routes } from "react-router-dom";
+import { HashRouter, Route, Routes } from "react-router-dom";
 import { Dashboard, Login, Main } from "./containers";
 import { getAuth } from "firebase/auth";
 import { app } from "./config/firebase.config";
@@ -51,15 +51,17 @@ const App = () => {
           <MainLoader />
         </motion.div>
       )}
-      <Routes basename="/cloud-project-deploy-frontend">
-        <Route path="/" element={<Main />} />
-        <Route path="/meal-plan" element={<MealPlan />} />
-        <Route path="/AboutUspart" element={<AboutUspart />} />
-        <Route path="/exercise-only" element={<ExerciseOnly />} />
-        <Route path="/serviceList" element={<TheCombined />} />
-        <Route path="/Login" element={<Login />} />
-        <Route path="/dashboard/*" element={<Dashboard />} />
-      </Routes>
+      <HashRouter basename="/cloud-project-deploy-frontend">
+        <Routes>
+          <Route path="/" element={<Main />} />
+          <Route path="/meal-plan" element={<MealPlan />} />
+          <Route path="/AboutUspart" element={<AboutUspart />} />
+          <Route path="/exercise-only" element={<ExerciseOnly />} />
+          <Route path="/serviceList" element={<TheCombined />} />
+          <Route path="/Login" element={<Login />} />
+          <Route path="/dashboard/*" element={<Dashboard />} />
+        </Routes>
+      </HashRouter>
 
       {alert?.type && <Alert type={alert?.type} message={alert?.message} />}
     </div>
